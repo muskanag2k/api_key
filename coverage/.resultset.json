@@ -1,0 +1,100 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/muskanagarwal/Documents/api_key/app/controllers/keys_controller.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null,
+        1,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null
+      ],
+      "/Users/muskanagarwal/Documents/api_key/app/controllers/application_controller.rb": [
+        1,
+        null
+      ],
+      "/Users/muskanagarwal/Documents/api_key/app/models/key.rb": [
+        1,
+        null
+      ],
+      "/Users/muskanagarwal/Documents/api_key/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/muskanagarwal/Documents/api_key/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/muskanagarwal/Documents/api_key/app/jobs/application_job.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/muskanagarwal/Documents/api_key/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/muskanagarwal/Documents/api_key/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1720712009
+  }
+}
